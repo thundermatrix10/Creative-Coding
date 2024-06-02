@@ -5,7 +5,7 @@ var current;
 var previous;
 
 function setup() {
-  createCanvas(1520, 685);
+  createCanvas(1490, 685);
   current = createVector(0,0);
   previous = createVector(0,0);
 };
